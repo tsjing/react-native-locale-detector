@@ -1,3 +1,5 @@
+'use strict';
+
 const { NativeModules } = require('react-native')
 const { RNI18n } = NativeModules
 
