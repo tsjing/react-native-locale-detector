@@ -1,4 +1,4 @@
-# react-native-locale-detector
+# react-native-locale-detector (for RN v0.40+)
 
 Detects the locale of a user's phone.
 Based on [react-native-i18n](https://github.com/AlexanderZaytsev/react-native-i18n), but this just exports the device's locale. This isn't particularly useful on it's own and you'll probably want to use it with an i18n library like [i18next](https://github.com/i18next/i18next).
@@ -6,7 +6,7 @@ Based on [react-native-i18n](https://github.com/AlexanderZaytsev/react-native-i1
 ## Installation
 
 ```
-npm install react-native-locale-detector --save
+npm install @tsjing/react-native-locale-detector --save
 react-native link
 ```
 
